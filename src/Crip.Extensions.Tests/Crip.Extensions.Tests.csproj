@@ -17,7 +17,7 @@
     <RepositoryUrl>https://github.com/crip-home/Crip.Extensions.Tests</RepositoryUrl>
     <PackageProjectUrl>https://github.com/crip-home/Crip.Extensions.Tests</PackageProjectUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageReadmeFile>README.MD</PackageReadmeFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryType>git</RepositoryType>
     <PackageTags>AspNetCore, .NET, unit-tests</PackageTags>
   </PropertyGroup>
