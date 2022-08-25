@@ -4,6 +4,10 @@ on:
   create:
     tags:
       - v*
+  pull_request:
+    branches:
+      - main
+      - master
 
 jobs:
   init:
